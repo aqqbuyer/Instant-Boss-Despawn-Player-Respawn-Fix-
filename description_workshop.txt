@@ -1,0 +1,25 @@
+[EN]
+[b]Instantly despawns active bosses when all players die in singleplayer or multiplayer.[/b]
+
+[h2]Why this is needed:[/h2]
+I discovered that this bug occurs in large modpacks (Calamity, Fargo's Souls, etc.), particularly on "Masochist" mode, where players are allowed to respawn only once during a boss fight. For some reason, after all players die, bosses sometimes teleport to the edge of the map, causing the game to think the fight is still ongoing. This creates a 20–30 second delay before players begin to respawn, or completely freezes the respawn timer altogether.
+
+[h2]What this mod does:[/h2]
+The exact frame the last living player dies, the mod halts the fight, completely clears active bosses, and syncs the state with the server, instantly initiating the normal player respawn sequence.
+
+• If you find any bugs or issues with the mod, please report them in the comments section for the mod. Thank you
+
+[hr][/hr]
+
+[RU]
+[b]Этот мод мгновенно деспавнит активных боссов при смерти всех игроков на сервере или в одиночной игре.[/b]
+
+[h2]Зачем это нужно:[/h2]
+Я обнаружил, что этот баг возник в крупной сборке (Calamity, Fargo's Souls и др.), в частности на сложности "Мазохист", где игроку за бой с боссом разрешено возродиться лишь 1 раз. Почему-то после смерти всех игроков боссы иногда телепортируются на край карты, из-за чего игра считает, что бой всё ещё идёт. Это вызывает задержку в 20–30 секунд перед началом респавна игроков или полностью заклинивает таймер возрождения.
+
+[h2]Что делает мод:[/h2]
+Как только погибает последний живой игрок, мод в тот же кадр останавливает бой, стирает боссов и синхронизирует это с сервером, мгновенно запуская нормальный респаун игроков.
+
+• Если в моде будут обнаружены баги или недочеты, просьба сообщить в комментарии к моду. Спасибо
+
+Source code: 

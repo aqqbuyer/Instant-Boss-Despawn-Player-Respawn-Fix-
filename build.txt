@@ -1,0 +1,3 @@
+displayName = Instant Boss Despawn (Player Respawn Fix)
+author = ne_smeshno
+version = 0.1

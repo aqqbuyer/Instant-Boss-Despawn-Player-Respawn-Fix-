@@ -1,0 +1,3 @@
+v0.0.1
+- Mod release. Bosses instantly despawn when all players die.
+- Релиз мода. Мгновенный деспавн боссов при смерти всех игроков.
